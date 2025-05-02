@@ -1,0 +1,6 @@
+color = input("eneter a color")
+plural_noun = input("enter a plural noun")
+celebrity = input("enter a celebrity name")
+print("roses are " + color )
+print(plural_noun + " are blue")
+print("I love"+ celebrity )
